@@ -1,1 +1,1 @@
-# Testing LLMs as a Juggling Tutor
+# Testing LLMs as a Venture Capital Tutor
